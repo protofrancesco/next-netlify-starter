@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>SHED626 Music Hub</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="SHED626 Music Hub" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Stiamo lavorando al nuovo sito! Seguici su Instagram per restare aggiornato e non esitare a contattarci.
         </p>
       </main>
 
