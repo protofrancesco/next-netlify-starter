@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="SHED626 Music Hub" />
         <p className="description">
-          Stiamo lavorando al nuovo sito! Seguici su Instagram per restare aggiornato e non esitare a contattarci.
+          Stiamo lavorando al nuovo sito! Seguici su <a href="https://instagram.com/shed626musichub">Instagram</a> per restare aggiornato e non esitare a contattarci.
         </p>
       </main>
 
